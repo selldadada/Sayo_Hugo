@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Valorant on Sellda Valorant Agent Pool</title>
+    <link>http://localhost:7551/tags/valorant/</link>
+    <description>Recent content in Valorant on Sellda Valorant Agent Pool</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:7551/tags/valorant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Complete Beginner’s Guide to VALORANT (2025 Edition)</title>
+      <link>http://localhost:7551/posts/papermod/valorant-guide/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:7551/posts/papermod/valorant-guide/</guid>
+      <description>Learn all of the basic mechanics you need to know in Valorant! From Agents, to maps, and gameplay :)</description>
+    </item>
+    <item>
+      <title>Brimstone</title>
+      <link>http://localhost:7551/posts/valorant-brimstone/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:7551/posts/valorant-brimstone/</guid>
+      <description>Sellda&amp;rsquo;s Main Controller Agent</description>
+    </item>
+    <item>
+      <title>Gekko</title>
+      <link>http://localhost:7551/posts/valorant-gekko/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:7551/posts/valorant-gekko/</guid>
+      <description>Sellda&amp;rsquo;s Main Initiator Agent</description>
+    </item>
+    <item>
+      <title>Killjoy</title>
+      <link>http://localhost:7551/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:7551/posts/papermod/papermod-features/</guid>
+      <description>Sellda&amp;rsquo;s First Main Agent</description>
+    </item>
+    <item>
+      <title>Reyna</title>
+      <link>http://localhost:7551/posts/valorant-reyna/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:7551/posts/valorant-reyna/</guid>
+      <description>Sellda&amp;rsquo;s Main Duelist Agent</description>
+    </item>
+    <item>
+      <title>Viper</title>
+      <link>http://localhost:7551/posts/valorant-viper/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:7551/posts/valorant-viper/</guid>
+      <description>Sellda&amp;rsquo;s Secondary Controller Agent</description>
+    </item>
+  </channel>
+</rss>
