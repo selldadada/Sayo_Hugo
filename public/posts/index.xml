@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Sellda Valorant Agent Pool</title>
-    <link>http://localhost:7551/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Sellda Valorant Agent Pool</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:7551/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brimstone</title>
-      <link>http://localhost:7551/posts/valorant-brimstone/</link>
+      <link>//localhost:1313/posts/valorant-brimstone/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7551/posts/valorant-brimstone/</guid>
+      <guid>//localhost:1313/posts/valorant-brimstone/</guid>
       <description>Sellda&amp;rsquo;s Main Controller Agent</description>
     </item>
     <item>
       <title>Gekko</title>
-      <link>http://localhost:7551/posts/valorant-gekko/</link>
+      <link>//localhost:1313/posts/valorant-gekko/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7551/posts/valorant-gekko/</guid>
+      <guid>//localhost:1313/posts/valorant-gekko/</guid>
       <description>Sellda&amp;rsquo;s Main Initiator Agent</description>
     </item>
     <item>
       <title>Reyna</title>
-      <link>http://localhost:7551/posts/valorant-reyna/</link>
+      <link>//localhost:1313/posts/valorant-reyna/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7551/posts/valorant-reyna/</guid>
+      <guid>//localhost:1313/posts/valorant-reyna/</guid>
       <description>Sellda&amp;rsquo;s Main Duelist Agent</description>
     </item>
     <item>
       <title>Viper</title>
-      <link>http://localhost:7551/posts/valorant-viper/</link>
+      <link>//localhost:1313/posts/valorant-viper/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7551/posts/valorant-viper/</guid>
+      <guid>//localhost:1313/posts/valorant-viper/</guid>
       <description>Sellda&amp;rsquo;s Secondary Controller Agent</description>
     </item>
   </channel>

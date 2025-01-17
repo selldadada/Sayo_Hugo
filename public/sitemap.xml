@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:7551/posts/papermod/valorant-guide/</loc>
+    <loc>//localhost:1313/posts/papermod/valorant-guide/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/posts/valorant-brimstone/</loc>
+    <loc>//localhost:1313/posts/valorant-brimstone/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/posts/valorant-gekko/</loc>
+    <loc>//localhost:1313/posts/valorant-gekko/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/posts/papermod/papermod-features/</loc>
+    <loc>//localhost:1313/posts/papermod/papermod-features/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/posts/valorant-reyna/</loc>
+    <loc>//localhost:1313/posts/valorant-reyna/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/posts/valorant-viper/</loc>
+    <loc>//localhost:1313/posts/valorant-viper/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/tags/gaming/</loc>
+    <loc>//localhost:1313/tags/gaming/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/posts/papermod/</loc>
+    <loc>//localhost:1313/posts/papermod/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/tags/valorant/</loc>
+    <loc>//localhost:1313/tags/valorant/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7551/archives.fr/</loc>
+    <loc>//localhost:1313/archives.fr/</loc>
   </url><url>
-    <loc>http://localhost:7551/archives/</loc>
+    <loc>//localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:7551/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:7551/search/</loc>
+    <loc>//localhost:1313/search/</loc>
   </url><url>
-    <loc>http://localhost:7551/search.fr/</loc>
+    <loc>//localhost:1313/search.fr/</loc>
   </url>
 </urlset>

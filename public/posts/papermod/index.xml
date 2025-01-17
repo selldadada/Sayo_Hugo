@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PaperMod on Sellda Valorant Agent Pool</title>
-    <link>http://localhost:7551/posts/papermod/</link>
+    <link>//localhost:1313/posts/papermod/</link>
     <description>Recent content in PaperMod on Sellda Valorant Agent Pool</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:7551/posts/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/papermod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Complete Beginner’s Guide to VALORANT (2025 Edition)</title>
-      <link>http://localhost:7551/posts/papermod/valorant-guide/</link>
+      <link>//localhost:1313/posts/papermod/valorant-guide/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7551/posts/papermod/valorant-guide/</guid>
+      <guid>//localhost:1313/posts/papermod/valorant-guide/</guid>
       <description>Learn all of the basic mechanics you need to know in Valorant! From Agents, to maps, and gameplay :)</description>
     </item>
     <item>
       <title>Killjoy</title>
-      <link>http://localhost:7551/posts/papermod/papermod-features/</link>
+      <link>//localhost:1313/posts/papermod/papermod-features/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7551/posts/papermod/papermod-features/</guid>
+      <guid>//localhost:1313/posts/papermod/papermod-features/</guid>
       <description>Sellda&amp;rsquo;s First Main Agent</description>
     </item>
   </channel>
